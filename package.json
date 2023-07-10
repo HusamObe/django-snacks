@@ -1,0 +1,15 @@
+{
+  "name": "django-snacks",
+  "version": "1.0.0",
+  "description": "<!-- LAB - Class xx\r Project: Project Name Here\r Author: Student/Group Name\r Links and Resources\r back-end server url (when applicable)\r front-end application (when applicable)\r Setup\r .env requirements (where applicable)\r i.e.",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
